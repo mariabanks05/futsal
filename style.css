@@ -1,3 +1,21 @@
+body {
+    font-size: 1rem;
+    font-family: 'Montserrat';
+}
+
+header {
+    background-color: #ffffff;
+}
+
+
+section {
+    padding-bottom: 5rem;
+}
+
+
+
+
+
 .img_principal {
   width: 500px;
 }
